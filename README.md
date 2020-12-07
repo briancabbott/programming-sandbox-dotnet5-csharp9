@@ -15,3 +15,11 @@ an IDE.
 
 
 ### Visual Studio Approach 
+
+
+## External GitHub Organizations Referenced
+
+   - dotnet
+   - StackExchange
+   - PowerShell
+   - Azure-Samples
