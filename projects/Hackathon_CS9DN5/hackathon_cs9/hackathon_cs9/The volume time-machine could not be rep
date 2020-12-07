@@ -1,0 +1,17 @@
+The volume time-machine could not be repaired.
+File system check exit code is 8.
+Restoring the original state found as mounted.
+Problem -69842 occurred while restoring the original mount state.
+File system verify or repair failed. : (-69845)
+
+
+
+Performing fsck_cs -n -x --lv --uuid 7DD2E945-9369-43B5-8ABA-BB14795F9F1C
+
+
+# csgather -r mountPoint [-o filename]
+csgather -r /dev/disk4 -o ./time-machine-csgather-report.txt
+csdiagnose [-f path] [-h] [-v] [dev ...]
+sysdiagnose
+
+fsck_cs -y -x -p -l ./logfile.log --uuid 7DD2E945-9369-43B5-8ABA-BB14795F9F1C
