@@ -64,3 +64,8 @@ resources/channel-9/OnNET/FSharpWasm_mid.mp4 filter=lfs diff=lfs merge=lfs -text
 resources/channel-9/OnNET/onNETFirstVideo_mid.mp4 filter=lfs diff=lfs merge=lfs -text
 resources/channel-9/OnNET/BlazorCustomizingTheODataEntityModel_mid.mp4 filter=lfs diff=lfs merge=lfs -text
 resources/channel-9/OnNET/ONDOTNETPWAsWithBlazor_mid.mp4 filter=lfs diff=lfs merge=lfs -text
+documents/716bbd6ebc284ca6f02f8ebd8403df71.pdf filter=lfs diff=lfs merge=lfs -text
+documents/1cd45d2c6a21a9254d3f3632bfc8e18c.pdf filter=lfs diff=lfs merge=lfs -text
+documents/8095fd27a143b011ab9a4627edf730d2.pdf filter=lfs diff=lfs merge=lfs -text
+documents/ASP.NET_Core/ASP.NET[[:space:]]Core[[:space:]]Documentation.pdf filter=lfs diff=lfs merge=lfs -text
+documents/Xamarin/Get[[:space:]]Started[[:space:]]with[[:space:]]Xamarin.iOS.pdf filter=lfs diff=lfs merge=lfs -text
