@@ -1,0 +1,5 @@
+
+
+
+byte[] ToBigEndian();
+byte[] ToLittleEndian();
